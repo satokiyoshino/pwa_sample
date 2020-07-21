@@ -1,0 +1,9 @@
+{
+    "name": "nextjs_app",
+    "short_name": "Napp",
+    "theme_color": "#ff8e46",
+    "background_color": "#6c91ff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/"
+}
